@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1480141603 source:c:\users\kharisma\desktop\tubes\tubesasd\main.cpp
+	<iostream>
+	"adtNya.h"
+	<stdlib.h>
+
+1480141054 source:c:\users\kharisma\desktop\tubes\tubesasd\adtnya.cpp
+	<iostream>
+	"adtNya.h"
+
+1480139815 c:\users\kharisma\desktop\tubes\tubesasd\adtnya.h
+	<iostream>
+
+1480141056 source:d:\tingkat 2\asd\asd tub\tubes\tubesasd\adtnya.cpp
+	<iostream>
+	"adtNya.h"
+
+1480139816 d:\tingkat 2\asd\asd tub\tubes\tubesasd\adtnya.h
+	<iostream>
+
+1480142026 source:d:\tingkat 2\asd\asd tub\tubes\tubesasd\main.cpp
+	<iostream>
+	"adtNya.h"
+	<stdlib.h>
+
